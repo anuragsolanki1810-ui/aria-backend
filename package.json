@@ -1,7 +1,7 @@
 {
- "name": "AlgoFlow-sorting-visualizer",
+"name": "aria-voice-assistant-backend",
   "version": "1.0.0",
- "description": "AlgoFlow — Sorting Algorithm Visualizer",
+ "description":ARIA-Voice assistant - Backend API server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
